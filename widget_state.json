@@ -1,0 +1,675 @@
+{
+    "version_major": 2,
+    "version_minor": 0,
+    "state": {
+        "0d1e8a8cc82042a2a4f61d8ce3c05432": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "2e8d358e0aea4be39a7b27ea59e5d9a3": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "31e9f4adf4774ff1928eac45f5f06a52": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "3ae8e57a5d8f43f58dbab0c72af0a4d6": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "3e06e3f7b63f4a3a9bd05d77bd25a3ce": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "w_m (Hz)",
+                "layout": "IPY_MODEL_31e9f4adf4774ff1928eac45f5f06a52",
+                "max": 10,
+                "step": 1e-10,
+                "style": "IPY_MODEL_bb39879fbeca4c77b34e0a98a513a08c"
+            }
+        },
+        "43b9873dec8a4671b7580142244c959e": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "4deedc8bacc5496ca92e9b160fc9e059": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "50688a0897b24078a8e4a28e58c200d2": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "5b4cd89c4c494396a7661ecf99806c16": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "66e05009fe6f4deaa5abdb479ddf7c0f": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "Q",
+                "layout": "IPY_MODEL_e515106346134a1c99866c575c3ca455",
+                "max": 8,
+                "step": 1e-10,
+                "style": "IPY_MODEL_5b4cd89c4c494396a7661ecf99806c16",
+                "value": 10000
+            }
+        },
+        "71a7512f06ca41edbe803e9393ad95c2": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "w_0 (Hz)",
+                "layout": "IPY_MODEL_edd31195f6bf44f4b5ba91d8d7a33e8c",
+                "max": 17,
+                "min": 13,
+                "step": 1e-10,
+                "style": "IPY_MODEL_7d3952bde27e4713a22da28e18a1e66d",
+                "value": 12189379495928398
+            }
+        },
+        "79065a3b5b414238a5afb9280f8ec008": {
+            "model_name": "VBoxModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "_dom_classes": [
+                    "widget-interact"
+                ],
+                "children": [
+                    "IPY_MODEL_66e05009fe6f4deaa5abdb479ddf7c0f",
+                    "IPY_MODEL_3e06e3f7b63f4a3a9bd05d77bd25a3ce",
+                    "IPY_MODEL_71a7512f06ca41edbe803e9393ad95c2",
+                    "IPY_MODEL_9a6d916a06d34e60955f0dee8bdd23b5",
+                    "IPY_MODEL_f77af03ef2e3493bb23bc531b31629b1",
+                    "IPY_MODEL_8521be4b0f2246369066d81cd656084e",
+                    "IPY_MODEL_e48a46ac6b1a43ffa9d591923a6612e6"
+                ],
+                "layout": "IPY_MODEL_4deedc8bacc5496ca92e9b160fc9e059"
+            }
+        },
+        "7d3952bde27e4713a22da28e18a1e66d": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "8107ba7f25114c089d46abe72f00e076": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "8521be4b0f2246369066d81cd656084e": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "P_input (W)",
+                "layout": "IPY_MODEL_50688a0897b24078a8e4a28e58c200d2",
+                "max": 14,
+                "min": -5,
+                "step": 1e-10,
+                "style": "IPY_MODEL_43b9873dec8a4671b7580142244c959e"
+            }
+        },
+        "9a6d916a06d34e60955f0dee8bdd23b5": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "Q_0",
+                "layout": "IPY_MODEL_3ae8e57a5d8f43f58dbab0c72af0a4d6",
+                "max": 10,
+                "min": 6,
+                "step": 1e-10,
+                "style": "IPY_MODEL_2e8d358e0aea4be39a7b27ea59e5d9a3",
+                "value": 100000000
+            }
+        },
+        "bb39879fbeca4c77b34e0a98a513a08c": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "e48a46ac6b1a43ffa9d591923a6612e6": {
+            "model_name": "OutputModel",
+            "model_module": "@jupyter-widgets/output",
+            "model_module_version": "1.0.0",
+            "state": {
+                "layout": "IPY_MODEL_e6a5bf24270c4143adb91fadf981fe83",
+                "outputs": [
+                    {
+                        "name": "stdout",
+                        "output_type": "stream",
+                        "text": "min. freq.= 1.1191927559403982 Hz, min. noise= 3.1313371651876377e-30 m^2/s^4)/Hz\n"
+                    }
+                ]
+            }
+        },
+        "e515106346134a1c99866c575c3ca455": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "e6a5bf24270c4143adb91fadf981fe83": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "edd31195f6bf44f4b5ba91d8d7a33e8c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "f77af03ef2e3493bb23bc531b31629b1": {
+            "model_name": "FloatSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "T (K)",
+                "layout": "IPY_MODEL_0d1e8a8cc82042a2a4f61d8ce3c05432",
+                "max": 400,
+                "min": 0.01,
+                "step": 0.01,
+                "style": "IPY_MODEL_8107ba7f25114c089d46abe72f00e076",
+                "value": 0.01
+            }
+        },
+        "41816af57a474f32bbab33b5ec8cf3dd": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "8c12e5c18aeb4ddab710d567d80bfdef": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "d778168288a1420685a8b775d804f7ec": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "Q",
+                "layout": "IPY_MODEL_41816af57a474f32bbab33b5ec8cf3dd",
+                "max": 8,
+                "step": 1e-10,
+                "style": "IPY_MODEL_8c12e5c18aeb4ddab710d567d80bfdef",
+                "value": 10000
+            }
+        },
+        "d90a27b904a24288b76fea99086ed52a": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "6f18820a3be7462889f4fb0cbbe2060a": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "410c41329ed949bda4414b6e8df54cdc": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "w_m (Hz)",
+                "layout": "IPY_MODEL_d90a27b904a24288b76fea99086ed52a",
+                "max": 10,
+                "step": 1e-10,
+                "style": "IPY_MODEL_6f18820a3be7462889f4fb0cbbe2060a"
+            }
+        },
+        "964b79f603104380837efc348bb4be31": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "0e64464b3383430daa182d6240c0eaef": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "540e6b5c192a4e638f3a2d6a5d752955": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "w_0 (Hz)",
+                "layout": "IPY_MODEL_964b79f603104380837efc348bb4be31",
+                "max": 17,
+                "min": 13,
+                "step": 1e-10,
+                "style": "IPY_MODEL_0e64464b3383430daa182d6240c0eaef",
+                "value": 12189379495928398
+            }
+        },
+        "3adb217f4e7b4b9dbeafae871a638548": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "a679dc2b1a174bc0b8e7d53726683eb2": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "599ea3a1398f4fc68e5deef72f0aa5a9": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "Q_0",
+                "layout": "IPY_MODEL_3adb217f4e7b4b9dbeafae871a638548",
+                "max": 10,
+                "min": 6,
+                "step": 1e-10,
+                "style": "IPY_MODEL_a679dc2b1a174bc0b8e7d53726683eb2",
+                "value": 100000000
+            }
+        },
+        "7d89d3ec1c7b4bbc86fb9d4efa44d500": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "fdce24af06804680814c4c5f2d755d45": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "00320077defa4670a2e1ed3afadbbea1": {
+            "model_name": "FloatSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "T (K)",
+                "layout": "IPY_MODEL_7d89d3ec1c7b4bbc86fb9d4efa44d500",
+                "max": 400,
+                "min": 0.01,
+                "step": 0.01,
+                "style": "IPY_MODEL_fdce24af06804680814c4c5f2d755d45",
+                "value": 0.01
+            }
+        },
+        "c151b17fe9b441e19dc9c09aed2e8c58": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "3532a863a204440ab2ab7ac46308f168": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "21728a443842473abe23123e07ab0ada": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "P_input (W)",
+                "layout": "IPY_MODEL_c151b17fe9b441e19dc9c09aed2e8c58",
+                "max": 14,
+                "min": -5,
+                "step": 1e-10,
+                "style": "IPY_MODEL_3532a863a204440ab2ab7ac46308f168"
+            }
+        },
+        "0ccbe1cb005545148dc72fec5827479d": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "41262d929b0941bbae2110aeae8fb39a": {
+            "model_name": "VBoxModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "_dom_classes": [
+                    "widget-interact"
+                ],
+                "children": [
+                    "IPY_MODEL_d778168288a1420685a8b775d804f7ec",
+                    "IPY_MODEL_410c41329ed949bda4414b6e8df54cdc",
+                    "IPY_MODEL_540e6b5c192a4e638f3a2d6a5d752955",
+                    "IPY_MODEL_599ea3a1398f4fc68e5deef72f0aa5a9",
+                    "IPY_MODEL_00320077defa4670a2e1ed3afadbbea1",
+                    "IPY_MODEL_21728a443842473abe23123e07ab0ada",
+                    "IPY_MODEL_d154fc67b02a43bc8e77da6de3c9287b"
+                ],
+                "layout": "IPY_MODEL_0ccbe1cb005545148dc72fec5827479d"
+            }
+        },
+        "42c5310a40554956b1ad2bb27cc6a105": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "d154fc67b02a43bc8e77da6de3c9287b": {
+            "model_name": "OutputModel",
+            "model_module": "@jupyter-widgets/output",
+            "model_module_version": "1.0.0",
+            "state": {
+                "layout": "IPY_MODEL_42c5310a40554956b1ad2bb27cc6a105",
+                "outputs": [
+                    {
+                        "output_type": "stream",
+                        "text": "min. freq.= 1.1191927559403982 Hz, min. noise= 3.1313371651876377e-30 m^2/s^4)/Hz\n",
+                        "name": "stdout"
+                    }
+                ]
+            }
+        },
+        "18fe7082293546a688df52dc1ba297c7": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "1af6b558c4cf49ab87d2fa4fead14933": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "2b104e47b2984c45bee9b94f6b9eb75b": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "Q",
+                "layout": "IPY_MODEL_18fe7082293546a688df52dc1ba297c7",
+                "max": 8,
+                "step": 1e-10,
+                "style": "IPY_MODEL_1af6b558c4cf49ab87d2fa4fead14933",
+                "value": 10000
+            }
+        },
+        "29f2dfaf16c9485e8fd219b65d6b8603": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "49d9eabc023143ad9d9a36243fb2b6da": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "536d7003dea24691bc1396cf8b0fa604": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "w_m (Hz)",
+                "layout": "IPY_MODEL_29f2dfaf16c9485e8fd219b65d6b8603",
+                "max": 10,
+                "step": 1e-10,
+                "style": "IPY_MODEL_49d9eabc023143ad9d9a36243fb2b6da"
+            }
+        },
+        "ac7bedb6dd054fdfa6cdff0f2acc3fc1": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "0df9a3a383f142669b5d741ec5428c22": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "da86c656ff6943ef9ced2efe7e255a47": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "w_0 (Hz)",
+                "layout": "IPY_MODEL_ac7bedb6dd054fdfa6cdff0f2acc3fc1",
+                "max": 17,
+                "min": 13,
+                "step": 1e-10,
+                "style": "IPY_MODEL_0df9a3a383f142669b5d741ec5428c22",
+                "value": 12189379495928398
+            }
+        },
+        "5e068ddb837b46119ae5fc5f4bf4b8ae": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "593bdde994ec430387834055b6f85571": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "a0522f08f2244515b5acca4b0bc96537": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "Q_0",
+                "layout": "IPY_MODEL_5e068ddb837b46119ae5fc5f4bf4b8ae",
+                "max": 10,
+                "min": 6,
+                "step": 1e-10,
+                "style": "IPY_MODEL_593bdde994ec430387834055b6f85571",
+                "value": 100000000
+            }
+        },
+        "fffc9584be154c409fb1d53093170926": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "403e6b173e264ea89a68545e7938f48d": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "62d8635793e347e29f2511bb12fabf71": {
+            "model_name": "FloatSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "T (K)",
+                "layout": "IPY_MODEL_fffc9584be154c409fb1d53093170926",
+                "max": 400,
+                "min": 0.01,
+                "step": 0.01,
+                "style": "IPY_MODEL_403e6b173e264ea89a68545e7938f48d",
+                "value": 0.01
+            }
+        },
+        "415b4ccf20a6403182807175afc9ad5c": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {
+                "width": "80%"
+            }
+        },
+        "0daf192154fd4c36b23697e24eb28634": {
+            "model_name": "SliderStyleModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description_width": ""
+            }
+        },
+        "71f59fa8ef734345a752ef67d2a9a8e8": {
+            "model_name": "FloatLogSliderModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "description": "P_input (W)",
+                "layout": "IPY_MODEL_415b4ccf20a6403182807175afc9ad5c",
+                "max": 14,
+                "min": -5,
+                "step": 1e-10,
+                "style": "IPY_MODEL_0daf192154fd4c36b23697e24eb28634"
+            }
+        },
+        "e8270dec8c834685ab40c54e6b86653d": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "2c609335697c4f6d8c74e73c9120eb44": {
+            "model_name": "VBoxModel",
+            "model_module": "@jupyter-widgets/controls",
+            "model_module_version": "1.5.0",
+            "state": {
+                "_dom_classes": [
+                    "widget-interact"
+                ],
+                "children": [
+                    "IPY_MODEL_2b104e47b2984c45bee9b94f6b9eb75b",
+                    "IPY_MODEL_536d7003dea24691bc1396cf8b0fa604",
+                    "IPY_MODEL_da86c656ff6943ef9ced2efe7e255a47",
+                    "IPY_MODEL_a0522f08f2244515b5acca4b0bc96537",
+                    "IPY_MODEL_62d8635793e347e29f2511bb12fabf71",
+                    "IPY_MODEL_71f59fa8ef734345a752ef67d2a9a8e8",
+                    "IPY_MODEL_09e1ea8382214d2a979cf5f9b17c8929"
+                ],
+                "layout": "IPY_MODEL_e8270dec8c834685ab40c54e6b86653d"
+            }
+        },
+        "bb466941daaf4a5781cba6ac3fe02dbb": {
+            "model_name": "LayoutModel",
+            "model_module": "@jupyter-widgets/base",
+            "model_module_version": "1.2.0",
+            "state": {}
+        },
+        "09e1ea8382214d2a979cf5f9b17c8929": {
+            "model_name": "OutputModel",
+            "model_module": "@jupyter-widgets/output",
+            "model_module_version": "1.0.0",
+            "state": {
+                "layout": "IPY_MODEL_bb466941daaf4a5781cba6ac3fe02dbb",
+                "outputs": [
+                    {
+                        "output_type": "stream",
+                        "text": "min. freq.= 1.1191927559403982 Hz, min. noise= 3.1313371651876377e-30 m^2/s^4)/Hz\n",
+                        "name": "stdout"
+                    }
+                ]
+            }
+        }
+    }
+}
